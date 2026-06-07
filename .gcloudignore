@@ -1,0 +1,4 @@
+# Do not ignore target folder
+.git
+.gitignore
+
