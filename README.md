@@ -30,6 +30,4 @@ Sunanda Panda
 Senior Java Developer | Spring Boot | Microservices | GCP
 https://www.linkedin.com/in/psunanda/
 
-## Author
-Sunanda Panda
-Senior Java Developer | Spring Boot | Microservices | GCP
+
